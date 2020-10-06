@@ -1,2 +1,2 @@
 # superuploader
-SuperUploader is a tool to mass upload data into a QAD ERP
+SuperUploader is a tool written in C# to mass upload data into a QAD ERP
